@@ -32,8 +32,5 @@ The dataset (diabetes.csv) contains data collected from the Pima Indian populati
 # Model
 The SVM model is trained to predict the likelihood of diabetes based on the provided features. The model is saved using joblib and can be loaded for predictions in the GUI application.
 
-# License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 # Acknowledgments
 This project is based on the Pima Indians Diabetes Database, available on Kaggle.
